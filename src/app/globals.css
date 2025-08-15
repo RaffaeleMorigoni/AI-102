@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles can be added here */
+html,
+body {
+  min-height: 100%;
+  background-color: #f7fafc;
+  color: #111827;
+}
